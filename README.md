@@ -9,4 +9,4 @@
   <a href="xyzxmocha@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
   <img src="https://komarev.com/ghpvc/?username=xyz-mocha&style=flat-square" alt="xyz-mocha" /> 
  </p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+color=%2336BCF7&center=true&vCenter=true&width=600&lines=ɪ+ɢᴇᴛ+ɪᴛ+ꜰʀᴏᴍ+ʏᴏᴜʀ+ᴍᴜᴍ." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+color=%2336BCF7&center=true&vCenter=true&width=600&lines=I+get+it+from+your+mum." />
